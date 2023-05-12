@@ -1,0 +1,48 @@
+{
+    "arabica": [
+        {
+            "foto": "images/produk/kopi_arabika_1.jpg",
+            "nama": "Arabica Sidikkalang",
+            "size": "500 Gram",
+            "harga": "200.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/kopi_arabika_3.jpg",
+            "nama": "Arabica Polos",
+            "size": "100 Gram",
+            "harga": "100.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/kopi_arabika_6.jpg",
+            "nama": "Arabika Luwak",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        }
+    ],
+    "robusta": [
+        {
+            "foto": "images/produk/kopi_arabika_1.jpg",
+            "nama": "Robusta Sidikkalang",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/kopi_arabika_3.jpg",
+            "nama": "Robusta Polos",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/kopi_arabika_6.jpg",
+            "nama": "Robusta Luwak",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+    ]
+}
